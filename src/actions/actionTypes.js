@@ -1,0 +1,6 @@
+export const CAMERA_SUCCESS = 'CAMERA_SUCCESS';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const PROFILE_SUCCESS = 'PROFILE_SUCCESS';
+export const OTP_SUCCESS = 'OTP_SUCCESS';
+export const OTP_VERIFY = 'OTP_VERIFY';

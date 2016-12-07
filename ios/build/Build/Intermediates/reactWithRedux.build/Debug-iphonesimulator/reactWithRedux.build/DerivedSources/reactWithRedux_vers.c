@@ -1,0 +1,1 @@
+ const unsigned char reactWithReduxVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:reactWithRedux  PROJECT:reactWithRedux-1" "\n"; const double reactWithReduxVersionNumber __attribute__ ((used)) = (double)1.;
